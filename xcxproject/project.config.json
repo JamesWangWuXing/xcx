@@ -1,10 +1,12 @@
 {
   "setting": {
-    "urlCheck": true,
+    "urlCheck": false,
     "es6": true,
-    "postcss": true,
-    "minified": true,
-    "newFeature": true
+    "newFeature": false,
+    "postcss": false,
+    "mockUpdate": false,
+    "minified": false,
+    "scripts": false
   },
   "appid": "tta334d5893c0c26d201",
   "projectname": "xcxproject",
