@@ -1,0 +1,16 @@
+{
+  "setting": {
+    "urlCheck": true,
+    "es6": true,
+    "postcss": true,
+    "minified": true,
+    "newFeature": true
+  },
+  "appid": "tta334d5893c0c26d201",
+  "projectname": "xcxproject",
+  "condition": {
+    "miniprogram": {
+      "current": -1
+    }
+  }
+}
