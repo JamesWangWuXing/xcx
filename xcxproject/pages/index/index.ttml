@@ -1,1 +1,26 @@
-<view class="intro">Welcome to Mini Program</view>
+<view class="intro">
+    <swiper indicator-dots="true" autoplay="true">
+        <swiper-item>
+            <image src="/images/bestplayers.png"></image>
+        </swiper-item>
+        <swiper-item>
+            <image src="/images/lpl.png"></image>
+        </swiper-item>
+        <swiper-item>
+            <image src="/images/jumpfly.png"></image>
+        </swiper-item>
+    </swiper>
+    <view class="courseRank">
+        <text class="texRank">热门课程排行</text>
+    </view>
+    <view class="courseContainer">
+        <text class="number">1</text>
+        <image class="coursepic" src="/images/shz.jpg"></image>
+        <view class="titleContainer">
+            <text class="title">品读水浒传</text>
+            <text class="detail">水壶传的真实历史</text>
+        </view>
+    
+        <text class="pricetype">免费</text>
+    </view>
+</view>

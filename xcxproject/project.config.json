@@ -14,5 +14,6 @@
     "miniprogram": {
       "current": -1
     }
-  }
+  },
+  "projectType": "app"
 }
