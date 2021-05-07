@@ -1,0 +1,59 @@
+#myVideo{
+    width: 100%;
+}
+
+.courseRank{
+    height: 100rpx;
+    width: 100%;
+    background-color: lightgray;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .texRank{
+    font-size: 32rpx;
+    /* border-top: 1px solid #ededed; */
+    
+  }
+
+  .titleContainer{
+    background-color: lightgray;
+    height: 80rpx;
+    width: 100%;
+    margin-top: -10rpx;
+    
+  }
+  .title{
+      font-size: 28rpx;
+      margin-top: 40rpx;
+      margin-left: 14rpx;
+      margin-right: 14rpx;
+  }
+
+  .courseDir{
+      display: flex;
+      flex-direction: row;
+      background-color: #fff;
+      border-top: 1px solid #ededed;
+      border-bottom: 1px solid #ededed;
+      align-items: center;
+      height: 150rpx;
+      width: 100%;
+      justify-content: space-between;
+  }
+  .num{
+    margin-left: 30rpx;
+    color: red;
+    font-size: 30rpx;
+  }
+.courseTitle{
+    margin-left: -100rpx;
+    font-size: 30rpx;
+}
+.courseType{
+    margin-right: 30rpx;
+    color: red;
+    font-size: 30rpx;
+}
