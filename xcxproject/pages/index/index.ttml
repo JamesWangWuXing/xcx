@@ -13,6 +13,16 @@
     <view class="courseRank">
         <text class="texRank">热门课程排行</text>
     </view>
+    <view class="courseContainer" bindtap="goToCourseDetail">
+        <text class="number">1</text>
+        <image class="coursepic" src="/images/shz.jpg"></image>
+        <view class="titleContainer">
+            <text class="title">品读水浒传</text>
+            <text class="detail">水壶传的真实历史</text>
+        </view>
+        <text class="pricetype">免费</text>
+    </view>
+
     <view class="courseContainer">
         <text class="number">1</text>
         <image class="coursepic" src="/images/shz.jpg"></image>
@@ -20,7 +30,6 @@
             <text class="title">品读水浒传</text>
             <text class="detail">水壶传的真实历史</text>
         </view>
-    
         <text class="pricetype">免费</text>
     </view>
 </view>

@@ -23,14 +23,13 @@ swiper image{
 .courseContainer{
   display: flex;
   flex-direction: row;
-  margin-top: 20rpx;
-  margin-bottom: 20rpx;
+  /* margin-top: 20rpx; */
+  /* margin-bottom: 20rpx; */
   background-color: #fff;
   border-top: 1px solid #ededed;
   border-bottom: 1px solid #ededed;
   align-items: center;
   height: 150rpx;
-  
 }
 
 .number{
@@ -67,4 +66,5 @@ swiper image{
   margin-right: 50rpx;
   font-size: 20rpx;
   color: red;
+  margin-top: -30rpx;
 }

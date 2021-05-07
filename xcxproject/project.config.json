@@ -12,7 +12,18 @@
   "projectname": "xcxproject",
   "condition": {
     "miniprogram": {
-      "current": -1
+      "current": 1620035019675,
+      "list": [
+        {
+          "id": 1620035019675,
+          "name": "课程",
+          "pathName": "pages/course/course",
+          "query": "",
+          "scene": "990001",
+          "launchFrom": "scan",
+          "location": "qr_code"
+        }
+      ]
     }
   },
   "projectType": "app"
