@@ -17,7 +17,7 @@ swiper image{
 }
 .texRank{
   font-size: 14px;
-  border-top: 1px solid #ededed;
+  /* border-top: 1px solid #ededed; */
 }
 
 .courseContainer{

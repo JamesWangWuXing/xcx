@@ -1,0 +1,59 @@
+.header{
+    width: 100%;
+    height: 400rpx;
+    display: flex;
+    background-color: red;
+    flex-direction: column;
+    align-items: center; 
+}
+
+.headerPic{
+    width: 100rpx;
+    height: 100rpx;
+    border-radius: 50rpx;
+    margin-bottom: 15rpx;
+    margin-top: 120rpx;
+}
+.headerText{
+    font-size: 24rpx;
+}
+.horXan{
+    width: 2rpx;
+    height: 35rpx;
+    background-color: red;
+    margin-left: 10rpx;
+    margin-top: 5rpx;
+}
+.titleHeader{
+    display: flex;
+    flex-direction: row;
+    
+}
+
+.titleCenter{
+  margin-left: 10rpx;
+  font-size: 30rpx;  
+}
+
+.xiangmu{
+    display: flex;
+    flex-direction: column;
+    align-items: left; 
+    align-items: center;
+    margin-left: -380rpx;
+}
+
+.pic{
+    width: 80rpx;
+    height: 100rpx;
+    margin-top: 20rpx;
+    
+}
+
+.shuru{
+    font-size: 28rpx;
+    margin-top: 20rpx;
+
+}
+
+
