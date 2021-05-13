@@ -1,13 +1,13 @@
 <view class="intro">
     <view class="header">
-        <image class="headerPic" src="/images/shz.jpg"></image>
-        <text class="headerText">隔壁大叔</text>
+        <image class="headerPic" src="{{userInfo.avatarUrl}}"></image>
+        <text class="headerText">{{userInfo.nickName}}</text>
     </view>
     <view class="titleHeader">
         <view class="horXan"></view>
         <text class="titleCenter">个人中心</text>
     </view>
-    <view class="xiangmu">
+    <view class="xiangmu" bindtap="goEcode">
         <image class="pic" src="/images/shz.jpg"></image>
         <text class="shuru">输入推广码</text>
     </view>

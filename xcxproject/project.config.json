@@ -22,6 +22,15 @@
           "scene": "990001",
           "launchFrom": "scan",
           "location": "qr_code"
+        },
+        {
+          "id": 1620916840575,
+          "name": "大课堂",
+          "pathName": "pages/etcode/etcode",
+          "query": "",
+          "scene": "990001",
+          "launchFrom": "scan",
+          "location": "qr_code"
         }
       ]
     }

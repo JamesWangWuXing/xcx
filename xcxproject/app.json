@@ -2,7 +2,8 @@
   "pages":[
     "pages/index/index",
     "pages/mine/mine",
-    "pages/course/course"
+    "pages/course/course",
+    "pages/etcode/etcode"
   ],
   "window":{
     "backgroundTextStyle":"light",
